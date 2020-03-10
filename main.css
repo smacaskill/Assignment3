@@ -1,0 +1,44 @@
+/* CSS file for Assignment 3 - PROG1800 */
+th{
+    text-align:left;
+}
+h2{
+    text-align: center;
+}
+fieldset{
+    margin: 0 auto;
+    width: 25em;
+}
+table{
+    margin: 0 auto;
+}
+p{
+    margin: 0.5em;
+}
+input,select{
+    float: right;
+    margin-right: 1.5em;
+}
+#submitButton{
+    text-align: center;
+    margin: 1em;
+}
+#errors{
+    color: red;
+}
+#pens,#markers,#paper{
+    width: 50px;
+}
+#postalCode{
+    width: 65px;
+}
+.right{
+    text-align: right;
+}
+td{
+    width: 12em;
+}
+table,tr,th,td{
+    border-collapse: collapse;
+    border: solid black 1px;
+}
