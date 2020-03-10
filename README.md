@@ -1,5 +1,7 @@
 This webpage was built and designed by Sandy MacAskill.
 
+To run the webpage simply navigate to this link: https://tranquil-woodland-29528.herokuapp.com/
+
 To operate the program simply do the following:
 
 1.Fill out form with all required fields
